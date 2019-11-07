@@ -21,7 +21,7 @@
         	<key>Arguments</key>
         	<dict>
         		<key>url</key>
-        		<string>https://download.qsrinternational.com/Software/NVivo12forMac/NVivo 12.dmg</string>
+        		<string>https://download.qsrinternational.com/Software/NVivo12forMac/NVivo%2012.dmg</string>
         		<key>filename</key>
         		<string>%NAME%.dmg</string>
         	</dict>
